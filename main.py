@@ -5,7 +5,7 @@ import discord
 from discord.ext import commands
 import requests
 
-
+#change
 intents = discord.Intents.all()
 
 helpCommand=commands.DefaultHelpCommand(no_category='Commands')
